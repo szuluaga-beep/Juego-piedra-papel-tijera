@@ -1,0 +1,10 @@
+.titulo {
+    text-align: center;
+    color: #241fc4;
+    font-size: 50px;
+}
+
+.puntajes{
+    display: flex;
+    justify-content: space-around;
+}
